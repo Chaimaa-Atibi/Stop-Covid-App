@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "816887049852",
+    "firebase_url": "https://covid-tracing-app.firebaseio.com",
+    "project_id": "covid-tracing-app",
+    "storage_bucket": "covid-tracing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816887049852:android:1658787d53bd876e9c23f9",
+        "android_client_info": {
+          "package_name": "com.example.covid_tracing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816887049852-ejr54chrap0ncrufmlrjom2dd665jnrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzud-JrpX4K8Er5OGFTb80k6L08CkYXkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816887049852-ejr54chrap0ncrufmlrjom2dd665jnrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
